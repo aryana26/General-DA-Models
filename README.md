@@ -80,11 +80,18 @@ All core logic is implemented in a **single Jupyter Notebook**, used for data pr
 
 These analytics were used to power the **CS661 Visualization Project**, including:
 - 🎢 Topic Mining T-SNE plot of Reviews embeddings from higher dimensional space to 3D space and see its clustering happening fo similar topics or reviews
+  ![Reviews Visualized form high embedding to 3D plot- We can see topics clusterered by colors](/tsne.png)
 - 📈 Interactive time-series dashboards
+ ![Sentiment over time](/seniment.png)
 - 🌐 Geo-based customer maps (Folium Maps)
+  ![Folium Map](/folium.png)
 - 🎢 Sankey diagrams for product flow
+  ![Sankey Plot](/sankey.png)
 - 🧱 Heatmaps and bar plots for market basket results
 - 🪪 Customer segments using RFM scatter plots
+  ![RFM Segmentation Plot](/rfm.png)
+- Demand Forecast Plot
+  ![Demand Forecast](/forecast.png)
 
 
 ---
